@@ -77,4 +77,4 @@ Currently, I'm focused on advancing my skills in machine learning and data analy
 
 ## 📊 GitHub Stats
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=im1xd&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=im1xd&layout=compact&langs_count=6&hide=css,html&theme=radical)
